@@ -3,7 +3,9 @@ A project to create a stub/mock environment for testing ExecuteScript processors
 
 ## Usage
 
-java -cp nifi-script-tester-<version>-all.jar [options] script_file
+```
+java -jar nifi-script-tester-<version>-all.jar [options] script_file
+```
 
   Where options may include:
   
